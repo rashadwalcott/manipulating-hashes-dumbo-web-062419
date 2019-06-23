@@ -1,4 +1,4 @@
-def first_challenge
+adef first_challenge
   contacts = {
     "Jon Snow" => {
       name: "Jon",
